@@ -1,5 +1,4 @@
 #!/bin/bash
-# docker.sh
 #To install Docker Engine on ubuntu
 sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg -y

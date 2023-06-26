@@ -1,3 +1,4 @@
+#!/bin/bash
 # docker.sh
 #To install Docker Engine on ubuntu
 sudo apt-get update
